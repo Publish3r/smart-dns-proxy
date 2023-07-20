@@ -20,6 +20,7 @@ e03-ch-dub-1.xcdn.iptv.ch
 e04-ch-dub-1.xcdn.iptv.ch
 e05-ch-dub-1.xcdn.iptv.ch
 netstream-ott.customers.xcdn.iptv.ch
+netstream-hls.customers.xcdn.iptv.ch
 services.sg1.etvp01.sctv.ch
 services.sg101.prd.sctv.ch
 tvoosa-pez0400.sctv.ch
