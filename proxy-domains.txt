@@ -5,6 +5,7 @@ sport.sky.ch
 store.sky.ch
 zattoo.com
 windows.zattoo.com
+zattoo-production.zattoo.com
 www.teleboy.ch
 tv.api.teleboy.ch
 api.production.k8s.y3o.tv
