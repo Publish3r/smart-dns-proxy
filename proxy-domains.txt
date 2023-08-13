@@ -3,6 +3,7 @@ www.sky.ch
 show.sky.ch
 sport.sky.ch
 store.sky.ch
+clientapi.prd.sky.ch
 zattoo.com
 windows.zattoo.com
 zattoo-production.zattoo.com
