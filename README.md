@@ -1,3 +1,9 @@
+# OUTDATED / NOT WORKING ANYMORE #
+### NEW PROJECT
+PLEASE USE: https://github.com/Publish3r/SniDust-Telerising
+
+---
+
 # How to #
 ## Smart-DNS-Proxy for Telerising ##
 
